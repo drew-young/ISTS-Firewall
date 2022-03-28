@@ -8,7 +8,7 @@ This script was developed for using during the ISTS competition (2022). The scri
 ```
 /bin/sh firewall.sh
 ```
-4. Type the following command to use the new configuration file we just made.
+3. Type the following command to use the new configuration file we just made.
 ```
 pfctl -f pf.conf
 ```
